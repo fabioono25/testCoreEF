@@ -1,0 +1,10 @@
+/home/ono/Documents/study/CodeMigrations/BasicTest/TestCoreEF/bin/Debug/netcoreapp2.0/TestCoreEF.deps.json
+/home/ono/Documents/study/CodeMigrations/BasicTest/TestCoreEF/bin/Debug/netcoreapp2.0/TestCoreEF.runtimeconfig.json
+/home/ono/Documents/study/CodeMigrations/BasicTest/TestCoreEF/bin/Debug/netcoreapp2.0/TestCoreEF.runtimeconfig.dev.json
+/home/ono/Documents/study/CodeMigrations/BasicTest/TestCoreEF/bin/Debug/netcoreapp2.0/TestCoreEF.dll
+/home/ono/Documents/study/CodeMigrations/BasicTest/TestCoreEF/bin/Debug/netcoreapp2.0/TestCoreEF.pdb
+/home/ono/Documents/study/CodeMigrations/BasicTest/TestCoreEF/obj/Debug/netcoreapp2.0/TestCoreEF.csproj.CoreCompileInputs.cache
+/home/ono/Documents/study/CodeMigrations/BasicTest/TestCoreEF/obj/Debug/netcoreapp2.0/TestCoreEF.AssemblyInfoInputs.cache
+/home/ono/Documents/study/CodeMigrations/BasicTest/TestCoreEF/obj/Debug/netcoreapp2.0/TestCoreEF.AssemblyInfo.cs
+/home/ono/Documents/study/CodeMigrations/BasicTest/TestCoreEF/obj/Debug/netcoreapp2.0/TestCoreEF.dll
+/home/ono/Documents/study/CodeMigrations/BasicTest/TestCoreEF/obj/Debug/netcoreapp2.0/TestCoreEF.pdb
