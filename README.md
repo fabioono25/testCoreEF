@@ -31,7 +31,7 @@ dotnet ef database update: to apply the new migration to the database. This comm
 dotnet aspnet-codegenerator controller -name MoviesController -m Movie -dc MvcMovieContext --relativeFolderPath Controllers --useDefaultLayout --referenceScriptLibraries 
 
 <p align="center">
-  <img src="https://github.com/fabioono25/testCoreEF/blob/master/create.png" width="800"/>
+  <img src="https://github.com/fabioono25/testCoreEF/blob/master/create.png"/>
   <br/><br/>
-  <img src="https://github.com/fabioono25/testCoreEF/blob/master/createComplete.png" width="800"/>
+  <img src="https://github.com/fabioono25/testCoreEF/blob/master/createComplete.png"/>
 </p>
